@@ -1,3 +1,4 @@
-alert('hwllo world');
-alert("hwllo world");
-alert(`hwllo world`);
+alert('hello world');
+alert("hello world");
+alert(`hello world`);
+console.logo(hello world)
